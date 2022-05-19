@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #EFE9E4;
+}
+
+.list-group-item{
+    background-color: #EFE9E4;
+}
+
+a {
+    text-decoration: none;
+    color:#0C6630;
+    transition: color 0.2s;
+    cursor: pointer;
+}
+
+a:hover {
+    color:#139246;
+}

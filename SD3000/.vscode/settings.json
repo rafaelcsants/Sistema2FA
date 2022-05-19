@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/de6989d6-d337-4985-a7cd-8eeb15b9f97a/resourceGroups/Projeto/providers/Microsoft.Web/sites/projetomfa",
+    "appService.deploySubpath": "."
+}
