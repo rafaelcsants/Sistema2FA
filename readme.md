@@ -28,4 +28,4 @@ Este código corre na na máquina VM01, sendo que é a unica que tem o ip públi
 
 
 ## Para aceder ao PDF com todas as informações:
-[a relative link](Relatorio_SD_20190800_20190908.pdf)
+[Clique aqui](Relatorio_SD_20190800_20190908.pdf)
